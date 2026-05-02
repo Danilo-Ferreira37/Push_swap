@@ -1,5 +1,7 @@
 *This project has been created as part of the 42 curriculum by dosorio-*
 
+[![Language](https://img.shields.io/badge/Language-C-blue.svg?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+
 # Description
 The push_swap is a 42 project whose goal is to sort a stack of integers using a limited set of operations and the smallest number of moves possible.
 
